@@ -23,6 +23,6 @@ What steps did you take in your attempts to increase model performance?
       - My last attempt was to change all activation functions to sigmoid and increase the number of epochs from 100 to 120; this increased optimization slightly to 72.46, but not as great an increase as I saw in my first optimization attempt
 
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+**Summary**
 
 With more time and resources this there are several more variables that can be adjusted to optimize the model to >75%, however I was not able to get there.
